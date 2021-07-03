@@ -1,0 +1,42 @@
+body {
+	font-family: "Trebuchet MS", "Luxi Sans", Verdana, Arial, Helvetica, sans-serif;
+}
+.bigheader {
+    background: linear-gradient(#244895,#fff) !important;
+}
+.box-head > h1 a {
+	color: white !important;
+}
+.box-head div {
+	color: black;
+}
+.box-head div a {
+	color: black !important;
+}
+.grid a {
+	border-radius: 20px;
+	border: 2px solid #d6d6d6;
+	background: linear-gradient(#efefef,#fff) !important;
+}
+.content span {
+	color: black;
+	font-weight: normal;
+}
+footer {
+	color: black !important;
+	font-size: 12px;
+}
+.footer-link {
+	color: #2a54aa !important;
+}
+.speed button, .form-button {
+	border: 2px solid #99b2e5;
+	background: linear-gradient(#d5dff4,#fff) !important;
+	color: black;
+}
+.form-button {
+	padding: 8px;
+}
+.header, info th {
+	background: linear-gradient(#6d91da, #3b6cce);
+}
