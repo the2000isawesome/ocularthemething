@@ -37,6 +37,6 @@ footer {
 .form-button {
 	padding: 8px;
 }
-.header, info th {
+.header, .info th {
 	background: linear-gradient(#6d91da, #3b6cce);
 }
